@@ -59,6 +59,3 @@ Realization of a coding connection to change the maps 1 Auto 2 Manual 3 4x4 (Mil
 -----------
 Mise en ligne du projet déjà commencé.
 ________________________________________
-Test du PullRequest
-
-coucou
