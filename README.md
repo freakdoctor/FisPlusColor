@@ -6,6 +6,10 @@ https://www.facebook.com/yan.lehasif/posts/169884381320562
 
 https://youtu.be/xjERU_5Nl0E
 
+https://amesis.forumpro.fr/t84-fispluscolor-ecran-couleur-sur-golf-iv-immo-3
+
+https://discord.com/invite/T5bwbu?fbclid=IwAR2dH_Txm47bH9xJJpNwoveU8dZVKtkvRu-ACegLTPyueMrq7roNo6kzyB8
+
 FR :
 Description du projet :
 Sur le compteur immo 3 de la Volskwagen Golf IV, Supression de l'écran à cristaux liquides pour le remplacer par un écran couleur
