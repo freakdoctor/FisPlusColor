@@ -1,0 +1,61 @@
+Project FisPlusColor 
+
+FR :
+Description du project :
+Sur le compteur immo 2 de la Volskwagen Golf IV, Supression de l'ecran à criteaux liquide pour le remplacer par un ecran couleur.
+Fait :
+Depose du compteur d'origine
+Installation du nouvel ecran
+Création du programme d'affichage
+Realisation du logo VW au demarage
+Creation des menus de navigation
+Commande des menus de navigation par les boutton du compteur d'origine
+
+
+A Faire :
+Realisation de la connection pour la comunication CAN entre les calculateurs et l'ecran
+Affichage de information reél (retour de la communication)
+Création des icone dans un format compatible et de faible poid
+logo Audi
+Logo Seat
+Logo Skoda
+Realisation d'un système de communication pour :
+ La lecture des deffauts
+ Effacement des deffauts
+ Lecture des goupe de mesures
+
+Realisation d'une connection de codage pour changer les carthographie 1 Auto 2 Manuelle 3 4x4 (MiltyCarte)
+
+ENG :
+
+
+Description of the project:
+On the Volskwagen Golf IV immo meter 2, removal of the liquid crystal screen to replace it with a color screen.
+Fact :
+Removal of the original meter
+Installation of the new screen
+Creation of the display program
+Realization of the VW logo at start-up
+Creation of navigation menus
+Control of the navigation menus using the buttons on the original speedometer
+
+
+To do :
+Connection for CAN communication between the computers and the screen
+Display of real information (return of communication)
+Creation of icons in a compatible and low weight format
+audi logo
+Seat logo
+Skoda logo
+Realization of a communication system for:
+ Reading faults
+ Clearing faults
+ Reading the measurement group
+
+Realization of a coding connection to change the maps 1 Auto 2 Manual 3 4x4 (MiltyMap)
+
+-----------
+08/08/2020
+-----------
+Mise en ligne du projet déjà commencé.
+________________________________________
